@@ -28,7 +28,7 @@ TurboTax is a tax preparation software designed to help people and companies in 
 
 <div align="center">
   <a href="https://installturbotaxcom-intut.github.io/">
-    <img src="InstallTurboTaxwithCDDrive.png" alt="InstallTurboTax.com" title="InstallTurboTax.com">
+    <img src="downloadandinstallturbotaxsoftwareonwindows.jpg" alt="InstallTurboTax.com" title="InstallTurboTax.com">
   </a>
 </div>
 
