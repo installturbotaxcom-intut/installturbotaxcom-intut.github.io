@@ -1,8 +1,3 @@
-# Configuration file for the Sphinx documentation builder.
-# This file only contains a selection of the most common options.
-# For a full list see the documentation:
-# https://www.sphinx-doc.org/en/master/usage/configuration.html
-
 import os
 import sys
 
@@ -15,18 +10,16 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Install TurboTax'
+project = 'InstallTurboTax.com'
 copyright = '2025, Your Name or Company'
 author = 'Your Name or Team'
-
-# The full version, including alpha/beta/rc tags
 release = '1.0.0'
 
 # -- General configuration ---------------------------------------------------
 
 # Add any Sphinx extension module names here, as strings. 
 # These extensions are optional but useful for Read the Docs.
-
+# extensions = ['sphinx.ext.autodoc', 'sphinx.ext.napoleon']
 
 # Add any paths that contain templates here, relative to this directory.
 # templates_path = ['_templates']
@@ -40,12 +33,9 @@ release = '1.0.0'
 
 # The theme to use for HTML and HTML Help pages.
 # Use the Read the Docs theme for better compatibility with Read the Docs.
-# html_theme = 'sphinx_rtd_theme'
+html_theme = 'sphinx_rtd_theme'
 
 # Add any paths that contain custom static files (such as style sheets)
 # here, relative to this directory. These files are copied after the built-in
 # static files, so a file named "default.css" will overwrite the built-in one.
 # html_static_path = ['_static']
-
-
-
