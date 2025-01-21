@@ -1,10 +1,6 @@
 version: 2
-
-# Sphinx configuration key to ensure Sphinx is properly set up
 sphinx:
-  configuration: conf.py  # This tells Read the Docs to use the conf.py file
-
-# Build environment settings
+  configuration: conf.py  # Ensure this points to your correct conf.py file
 build:
   os: ubuntu-22.04
   tools:
