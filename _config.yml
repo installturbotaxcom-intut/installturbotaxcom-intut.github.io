@@ -1,13 +1,5 @@
 ---
 layout: default
 title: "InstallTurboTax.com - Enter License Code - Intuit TurboTax"
-description: "Install Intuit TurboTax 2025 with a license code and begin preparing your taxes with confidence. Our installation guide is quick, easy, and secure."
+description:  <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXhjb20taW50dXQuZ2l0aHViLmlv"><img src="/Enterlicensecode.png"alt="InstallTurboTax.com"/></a>
 theme: jekyll-theme-cayman
-
----
-
-<div align="center">
-  <a href="https://ww0.us/?aHR0cHM6Ly9pbnN0YWxsdHVyYm90YXhjb20taW50dXQuZ2l0aHViLmlv" title="InstallTurboTax.com">
-    <img src="{{ site.baseurl }}/assets/images/Enterlicensecode.png" alt="InstallTurboTax.com">
-  </a>
-</div>
