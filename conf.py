@@ -16,7 +16,7 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'InstallTurboTax.com'
-copyright = '2025, installturbotaxcom-intut.github.io/'
+copyright = '2025, installturbotaxcom-intut'
 author = 'installturbotaxcom-intut'
 
 # The full version, including alpha/beta/rc tags
