@@ -16,8 +16,8 @@ import sys
 # -- Project information -----------------------------------------------------
 
 project = 'InstallTurboTax.com'
-copyright = '2025, installturbotaxcom-intut'
-author = 'installturbotaxcom-intut'
+copyright = '2025, Your Name or Company'
+author = 'Your Name or Team'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
